@@ -1,7 +1,5 @@
 ## Hi, I am Alberto.
 
-🎯 Part-time student, part-time software engineer.
-
 I am deeply into:
 - agile software development
 - clean code
