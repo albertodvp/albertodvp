@@ -4,7 +4,6 @@ I am deeply into:
 - agile software development
 - clean code
 - functional programming
-- machine learning
 - open source software
 - lists
 
